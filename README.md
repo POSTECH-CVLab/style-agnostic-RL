@@ -40,7 +40,7 @@ python train.py --env_name $env --algo $algo --aug_type $aug --seed $seed --gpu_
 ```
 
 ## Citing Style-Agnostic RL
-If you use the Style-Agnostic RL agent, please cite:
+If you use the Style-Agnostic RL model, please cite:
 ```
 @inproceedings{Lee_StyleAgnostic_ECCV_2022,
     Title={Style-Agnostic Reinforcement Learning},
