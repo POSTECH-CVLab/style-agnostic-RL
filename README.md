@@ -1,5 +1,5 @@
-# Style Agnostic Reinforcement Learning
-The official GitHub repository of [Style Agnostic Reinforcement Learning]() (ECCV 2022). 
+# Style-Agnostic Reinforcement Learning
+The official GitHub repository of [Style-Agnostic Reinforcement Learning]() (ECCV 2022). 
 
 ## Requirements
 - ubuntu 18.04    
@@ -39,7 +39,7 @@ pip install scikit-image pandas pyyaml
 python train.py --env_name $env --algo $algo --aug_type $aug --seed $seed --gpu_device $gpu
 ```
 
-## Citing Style Agnostic RL
+## Citing Style-Agnostic RL
 If you use the Style-Agnostic RL agent, please cite:
 ```
 @inproceedings{Lee_StyleAgnostic_ECCV_2022,
