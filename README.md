@@ -49,3 +49,6 @@ If you use the Style-Agnostic RL model, please cite:
     Year={2022}
 }
 ```
+
+## Acknowledgements 
+This code was based on an open sourced [PyTorch implementation of DrAC](https://github.com/rraileanu/auto-drac).
